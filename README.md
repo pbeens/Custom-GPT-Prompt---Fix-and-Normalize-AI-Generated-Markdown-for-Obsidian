@@ -1,4 +1,4 @@
-# Custom GPT Prompt-Fix & Normalize AI-Generated Markdown for Obsidian
+# Custom GPT Prompt: Fix & Normalize AI-Generated Markdown for Obsidian
 
 This repository hosts the [prompt](PROMPT.md) used for the "Fix and Normalize AI Generated Markdown for Obsidian" Custom GPT.
 
